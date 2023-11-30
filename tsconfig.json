@@ -24,6 +24,5 @@
       // Add more aliases as needed
     }
   },
-  "include": ["src/**/*"],
   "exclude": ["node_modules"]
 }

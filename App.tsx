@@ -1,7 +1,6 @@
-import React from 'react'
+import HelloWorld from '@screens/HelloWorld'
 
 import { SafeAreaView } from 'react-native'
-import HelloWorld from '@screens/HelloWorld'
 
 function App(): JSX.Element {
   return (
