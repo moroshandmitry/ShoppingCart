@@ -1,14 +1,14 @@
-import React from 'react';
+import React from 'react'
 
-import {SafeAreaView} from 'react-native';
-import HelloWorld from '@screens/HelloWorld';
+import { SafeAreaView } from 'react-native'
+import HelloWorld from '@screens/HelloWorld'
 
 function App(): JSX.Element {
   return (
     <SafeAreaView>
       <HelloWorld />
     </SafeAreaView>
-  );
+  )
 }
 
-export default App;
+export default App
